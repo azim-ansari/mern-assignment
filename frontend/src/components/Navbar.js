@@ -20,7 +20,7 @@ const Navbar = () => {
 				<div className="collapse navbar-collapse" id="navbarTogglerDemo01">
 					<ul className="navbar-nav mr-auto mt-2 mt-lg-0">
 						<li>
-							<Link className="navbar-brand" href="/">
+							<Link className="navbar-brand" to="/">
 								Logo
 							</Link>
 						</li>
